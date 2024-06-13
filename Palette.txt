@@ -1,0 +1,3 @@
+2, C:\Users\urdan\Desktop\tiles\001.png
+3, C:\Users\urdan\Desktop\tiles\032.png
+5, C:\Users\urdan\Desktop\tiles\000.png
